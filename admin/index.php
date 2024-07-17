@@ -41,7 +41,7 @@
     <div id="page">
         <center>
         <li>Login Admin</li>
-        <img src="../gambar/horison-logo-white.png" width="150px;" style="margin-top: 10px;border: 1px solid white;">
+        <img src="../gambar/bintang5.png" width="150px;" style="margin-top: 10px;border: 1px solid white;">
             <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
                 <table style="margin-top: 10px; margin-bottom: 10px;">
                     <tr>
