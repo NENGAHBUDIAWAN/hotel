@@ -29,7 +29,7 @@
 	}
 ?>
 		<div id="imglog">
-			<p><br>>>Kontak Admin<br>&nbsp;</p>
+			<p><br>>>Kontak Admin YA!!!!<br>&nbsp;</p>
 		</div>
 			
 			

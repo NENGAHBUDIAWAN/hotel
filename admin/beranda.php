@@ -11,7 +11,7 @@
 		<div class="kotak"><img src="../gambar/Presidential.jpg" width="100%" height="100%"></div>
 		<div class="kotak"><img src="../gambar/Deluxe.jpg" width="100%" height="100%"></div>
 		<div class="kotak"><img src="../gambar/Ruang-Konferensi.jpg" width="100%" height="100%"></div>
-		<div class="kotak"><img src="../gambar/Ruang-Konferensi2.jpg" width="100%" height="100%"></div>
+		
 		<div class="kotak"><img src="../gambar/Restoran.jpg" width="100%" height="100%"></div>
 	</aside>
 

@@ -86,7 +86,7 @@
 			<p><br>Selamat Datang<br>
 				Di Hotel Bintang 5 Indonesia<br></p>
 		</div>
-	</div>
+	</div> 
 
 			<div id="reservasi">
 				<li>Reservasi</li>
@@ -148,9 +148,10 @@
 			</div>
 
 			<div id="petalokasi">
-				<h3>Peta Lokasi</h3><br>
-				<img src="../gambar/horison1.png" width="70%">
-			</div>
+	<h3>Peta Lokasi</h3><br>
+	<img src="../gambar/hotel_bintang5.png" width="70%">
+</div>
+
 			</center>
 	
 
