@@ -24,7 +24,7 @@
 <body>
 
 	<nav>
-		<img src="gambar\1.jpeg" width="100px">
+		<img src="gambar\bintang.png" width="100px">
 		<ul>
 			<li><a href="index">Beranda</a></li>
 			<li><a href="kamar">Kamar</a></li>
