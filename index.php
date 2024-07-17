@@ -73,10 +73,10 @@
 			<div id="cekinout">
 				<h3>Check-In &amp; Check-Out</h3><br>
 				<h4>Check-In</h4>
-				<p>Jam Check-In Standar : 12.00 WITA</p>
+				<p>Jam Check-In Standar : 12.00 WIB</p>
 				<p>*Waktu Check-In dari plan mempunyai prioritas lebih besar</p><br>
 				<h4>Check-Out</h4>
-				<p>Jam Check-Out Standar : 12.00 WITA</p>
+				<p>Jam Check-Out Standar : 12.00 WIB</p>
 				<p>*Waktu Check-Out dari plan mempunyai prioritas lebih besar</p><br>
 			</div>
 
