@@ -86,7 +86,7 @@
 			<p><br>Selamat Datang<br>
 				*********<br>&nbsp;</p>
 		</div>
-	</div>
+	</div> 
 
 			<div id="reservasi">
 				<li>Reservasi</li>
