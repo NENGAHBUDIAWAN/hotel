@@ -85,6 +85,10 @@
                 <p>Email: info@kelompoknengahakmaldanyudha.com</p>
                 <p>Phone: +123 456 7890</p>
             </div>
+            <div class="additional-links">
+                <a href="#privacy-policy">Privacy Policy</a> |
+                <a href="#terms-of-service">Terms of Service</a>
+            </div>
             
            
         </div>
