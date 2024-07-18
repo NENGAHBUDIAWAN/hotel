@@ -89,13 +89,7 @@
                 <a href="#privacy-policy">Privacy Policy</a> |
                 <a href="#terms-of-service">Terms of Service</a>
             </div>
-            <div class="newsletter-subscription">
-                <form action="/subscribe" method="post">
-                    <label for="email">Subscribe to our newsletter:</label>
-                    <input type="email" id="email" name="email" required>
-                    <button type="submit">Subscribe</button>
-                </form>
-            </div>
+            
         </div>
     </footer>
 </body>
