@@ -82,7 +82,7 @@
                 <a href="https://www.instagram.com/yourprofile"><img src="../gambar/ig1.png" alt="Instagram"></a>
             </div>
             <div class="contact-info">
-                <p>Email: info@kelompokayudhawa.com</p>
+                <p>Email: info@kelompoknengahakmaldanyudha.com</p>
                 <p>Phone: +123 456 7890</p>
             </div>
             <div class="additional-links">
