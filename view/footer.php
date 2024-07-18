@@ -86,13 +86,7 @@
                 <p>Phone: +123 456 7890</p>
             </div>
             
-            <div class="newsletter-subscription">
-                <form action="/subscribe" method="post">
-                    <label for="email">Subscribe to our newsletter:</label>
-                    <input type="email" id="email" name="email" required>
-                    <button type="submit">Subscribe</button>
-                </form>
-            </div>
+           
         </div>
     </footer>
 </body>
