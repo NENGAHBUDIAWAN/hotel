@@ -85,7 +85,7 @@
             </nav>
             <div class="social-media">
                 <a href="https://www.facebook.com/yourprofile"><img src="../gambar/fb.png" alt="Facebook"></a>
-                <a href="https://www.twitter.com/yourprofile"><img src="../gambar/ig.png" alt="Twitter"></a>
+                <a href="https://www.twitter.com/yourprofile"><img src="../gambar/tw.png" alt="Twitter"></a>
                 <a href="https://www.instagram.com/yourprofile"><img src="../gambar/instagram-icon.png" alt="Instagram"></a>
             </div>
             <div class="contact-info">
