@@ -63,7 +63,7 @@
             </ul>
         </nav>
         <div class="social-media">
-            <a href="https://www.facebook.com/yourprofile"><img src="facebook-icon.png" alt="Facebook"></a>
+            <a href="https://www.facebook.com/yourprofile"><img src="../gambar/fb.png" width="50px" alt="Facebook"></a>
             <a href="https://www.twitter.com/yourprofile"><img src="twitter-icon.png" alt="Twitter"></a>
             <a href="https://www.instagram.com/yourprofile"><img src="instagram-icon.png" alt="Instagram"></a>
         </div>
