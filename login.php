@@ -13,7 +13,7 @@ if($cari){
     $_SESSION['user'] = $akses['idtamu'];
     echo "<script>swal({
         type: 'success',
-        title: 'Login Sukses!',
+        title: 'LOGINMU BERHASIL MAS!',
         showConfirmButton: false,
         backdrop: 'rgba(0,0,123,0.5)',
         });
