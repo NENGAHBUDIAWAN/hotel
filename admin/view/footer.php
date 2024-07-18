@@ -74,7 +74,7 @@
     <footer>
         <div class="footer-overlay"></div>
         <div class="footer-content">
-            <h6>&copy; 2024 | KELOMPOK YUDHAWWW</h6>
+            <h6>&copy; 2024 | KELOMPOK AkmalNengahYudha</h6>
            
             <div class="social-media">
                 <a href="https://www.facebook.com/yourprofile"><img src="../gambar/fb.png" alt="Facebook"></a>
