@@ -33,7 +33,7 @@ if(isset($_POST['gantipass'])) {
 				<table align="center" style="background: transparent;">
 					<caption style="color: white">Profil</caption>
 				<tr style="color: black" align="center">
-					<td colspan="3"><img src="../simpangambar/<?php 
+					<td colspan="3"><img src="profil.png"<?php 
 				if ($foto != '') {
 					echo $foto;
 				}
@@ -46,6 +46,9 @@ if(isset($_POST['gantipass'])) {
 					<td>Username</td>
 					<td><center>:</center></td>
 					<td><?php echo $username ?></td>
+					
+					
+
 				</tr>
 				<tr>
 					<td>Email</td>
@@ -72,7 +75,7 @@ if(isset($_POST['gantipass'])) {
 
 		</div>
 		<div id="eg">
-			<a href="editprofil" class="pass2"> Edit/Upload Foto</a>
+			<a href="editprofil"  class="pass2"> Edit/Upload Foto</a>
 			<a href="#gantipassword" class="pass"> Ganti Password</a>
 		</div>
 		</div>
