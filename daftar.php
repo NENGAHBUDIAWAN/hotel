@@ -24,7 +24,7 @@ echo"<script>swal({
 
   <div id="imgindex">
     <div id="imglog">
-      <p><br>>>Registrasi<br>&nbsp;</p>
+      <p><br>Registrasi<br></p>
     </div>
   </div>
 

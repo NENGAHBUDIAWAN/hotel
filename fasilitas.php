@@ -7,7 +7,7 @@
 		<center>
 	<div id="imgindex">
 		<div id="imglog">
-			<p><br>>>Fasilitas &amp; Layanan Kamar<br>&nbsp;</p>
+			<p><br>Fasilitas &amp; Layanan Kamar<br></p>
 		</div>
 	</div>
 
