@@ -112,7 +112,7 @@
 									<option value="Rp 410.000">Superior</option>
 									<option value="Rp 450.000">Deluxe</option>
 									<option value="Rp 700.000">Junior Suite</option>
-									<option value="Rp 1.200.000">Executive</option>
+									<option value="Rp 1.200.000"> <style> </style>Executive</option>
 								</select>
 							</td>
 							<td>
