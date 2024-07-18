@@ -5,7 +5,7 @@
 
     <div id="imgindex">
         <div id="imglog">
-            <p><br>>>Kamar<br>&nbsp;</p>
+            <p><br>Kamar<br></p>
         </div>
     </div>
     <div id="datakamar2">
