@@ -25,7 +25,7 @@
             left: 0;
             right: 0;
             bottom: 0;
-            background-color: rgba(255, 255, 255, 0); /* Overlay transparan */
+            background-color: red
             padding: 20px;
             z-index: 0;
         }
@@ -74,7 +74,7 @@
     <footer>
         <div class="footer-overlay"></div>
         <div class="footer-content">
-            <h6>&copy; 2024 | KELOMPOK YNengah_Akmal_Yudha</h6>
+            <h6>&copy; 2024 | KELOMPOK Nengah_Akmal_Yudha</h6>
            
             <div class="social-media">
                 <a href="https://www.facebook.com/yourprofile"><img src="../gambar/fb.png" alt="Facebook"></a>
@@ -82,13 +82,10 @@
                 <a href="https://www.instagram.com/yourprofile"><img src="../gambar/ig1.png" alt="Instagram"></a>
             </div>
             <div class="contact-info">
-                <p>Email: info@kelompokayudhawa.com</p>
+                <p>Email: info@kelompoknengahakmaldanyudha.com</p>
                 <p>Phone: +123 456 7890</p>
             </div>
-            <div class="additional-links">
-                <a href="#privacy-policy">Privacy Policy</a> |
-                <a href="#terms-of-service">Terms of Service</a>
-            </div>
+            
             <div class="newsletter-subscription">
                 <form action="/subscribe" method="post">
                     <label for="email">Subscribe to our newsletter:</label>
