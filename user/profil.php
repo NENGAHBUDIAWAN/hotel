@@ -33,12 +33,12 @@ if(isset($_POST['gantipass'])) {
 				<table align="center" style="background: transparent;">
 					<caption style="color: white">Profil</caption>
 				<tr style="color: black" align="center">
-					<td colspan="3"><img src="profil.png"<?php 
+					<td colspan="3"><img src="profil.jpg"<?php 
 				if ($foto != '') {
 					echo $foto;
 				}
 				else {
-					echo 'profil.png';
+					echo 'profil.jpg';
 				}
 			?>" width="120px" height="120px"/></td>
 				</tr>
