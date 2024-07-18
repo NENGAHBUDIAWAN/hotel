@@ -15,25 +15,25 @@
 				<tr>
 					<td>Username</td>
 					<td>
-						<input type="hidden" name="tid" value="<?php echo $id ?>">
-						<input type="text" required="required" name="tuser" value="<?php echo $username ?>">
+						<input type="hidden" name="tid" value="<?php echo addslashes($id) ?>">
+						<input type="text" required="required" name="tuser" value="<?php echo addslashes($username) ?>">
 					</td>
 				</tr>
 				<tr>
 					<td>Email</td>
-					<td><input type="Email" required="required" name="temail" value="<?php echo $email ?>"></td>
+					<td><input type="Email" required="required" name="temail" value="<?php echo addslashes($email) ?>"></td>
 				</tr>
 				<tr>
 					<td>Nama Lengkap</td>
-					<td><input type="text" required="required" name="tnama" value="<?php echo $nama ?>"></td>
+					<td><input type="text" required="required" name="tnama" value="<?php echo addslashes($nama) ?>"></td>
 				</tr>
 				<tr>
 					<td>Alamat</td>
-					<td><input type="text" required="required" name="talamat" value="<?php echo $alamat ?>"></td>
+					<td><input type="text" required="required" name="talamat" value="<?php echo addslashes($alamat) ?>"></td>
 				</tr>
 				<tr>
 					<td>Telepon</td>
-					<td><input type="text" required="required" name="ttelepon" value="<?php echo $telepon ?>"></td>
+					<td><input type="text" required="required" name="ttelepon" value="<?php echo addslashes($telepon) ?>"></td>
 				</tr>
 				<tr>
 					<td></td>
