@@ -22,7 +22,7 @@ if(isset($_POST['gantipass'])) {
 ?>
 
 	<div id="imglog">
-		<p><br>Halaman Profil<br>&nbsp;</p>
+		<p><br>Profil<br></p>
 	</div>
 			
 	<div id="proff">
