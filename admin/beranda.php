@@ -4,7 +4,7 @@
 
 	<aside>
 		<div id="abc">
-			<p>Selamat Datang di Beranda Admin</p>
+			<p>SELAMAT DATANG DI ADMIN YAA</p>
 		</div>
 
 		<div class="kotak"><img src="../gambar/Superior.jpg" width="100%" height="100%"></div>
