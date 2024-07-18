@@ -75,14 +75,7 @@
         <div class="footer-overlay"></div>
         <div class="footer-content">
             <h6>&copy; 2024 | KELOMPOK YUDHAWWW</h6>
-            <nav>
-                <ul>
-                    <li><a href="#home">Home</a></li>
-                    <li><a href="#about">About Us</a></li>
-                    <li><a href="#services">Services</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                </ul>
-            </nav>
+           
             <div class="social-media">
                 <a href="https://www.facebook.com/yourprofile"><img src="../gambar/fb.png" alt="Facebook"></a>
                 <a href="https://www.twitter.com/yourprofile"><img src="../gambar/tw.png" alt="Twitter"></a>
